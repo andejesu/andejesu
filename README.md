@@ -7,17 +7,25 @@ For now I am utilizing YouTube/Udemy/Coursera to learn all about many fun things
 Specifically, those things include:
 
 OPNSense (Firewall, Networking, Segmentation)
+
 Proxmox (virtualization, Containerization)
+
 Docker (Containerization)
+
 Wazuh (SIEM, Threat Hunting)
+
 Splunk (Analysis, Virtualization, SIEM)
 
 ...And really just doing everything I can to absorb as much information to make my homelab as Neat as possible. That includes:
 
 Game Hosting
+
 Discord Bots
+
 Pen/Defensive Testing
+
 Security principles & best practices
+
 Networking
 
 So hopefully in learning this I become better at it. Because afterall, isn't that what we're here for? 
